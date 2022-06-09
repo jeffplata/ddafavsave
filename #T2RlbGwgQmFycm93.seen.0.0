@@ -51,6 +51,10 @@
 ,[129,132,"mx_sewer_pipesF"]
 ,[128,135,"mx_sewer_mntW"]
 ,[129,131,"mx_sewer_round"]
+,[139,127,"mx_sewer_grateW"]
+,[139,128,"mx_sewer_grid2"]
+,[139,129,"mx_sewer_pipesJ"]
+,[139,126,"mx_sewer_pipesC"]
 ],[[138,140,"mx_house_wasp"]
 ,[144,141,"mx_crater"]
 ,[146,137,"mx_grass2"]
@@ -63,4 +67,5 @@
 ,[131,131,"mx_grass"]
 ,[132,131,"mx_grass2"]
 ],[[136,136,"mx_portal"]
+,[145,127,"mx_portal"]
 ],[],[],[],[],[],[],[],[],[]]}
